@@ -40,7 +40,7 @@
                 class="d-flex flex-wrap"
               >
                 <base-btn
-                  href="https://api.whatsapp.com/send?phone=524611011950"
+                  href="https://api.whatsapp.com/send?phone=524611011850"
                   target="blank"
                 >
                   Contactenos
@@ -53,7 +53,7 @@
                   class="pa-1"
                   height="auto"
                   text
-                  href="https://api.whatsapp.com/send?phone=524611011950"
+                  href="https://api.whatsapp.com/send?phone=524611011850"
                   target="blank"
                 >
                   Saber Mas
