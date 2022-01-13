@@ -20,7 +20,8 @@
         bottom
         left
         color="green"
-        @click="toTop"
+        href="https://api.whatsapp.com/send?phone=524611011950"
+        target="blank"
       >
         <v-icon x-large>
           mdi-whatsapp

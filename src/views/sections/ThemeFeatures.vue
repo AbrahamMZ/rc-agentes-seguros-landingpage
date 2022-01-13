@@ -21,6 +21,8 @@
             <base-btn
               text
               small
+              href="https://api.whatsapp.com/send?phone=524611011950"
+              target="blank"
             >
               Saber mas
             </base-btn>

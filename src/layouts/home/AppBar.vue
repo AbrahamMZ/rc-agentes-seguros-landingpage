@@ -78,6 +78,7 @@
 
       <div>
         <v-tabs
+          v-model="tab"
           class="hidden-sm-and-down"
           optional
           background-color="transparent"
@@ -89,7 +90,6 @@
             :ripple="false"
             class="font-weight-bold"
             min-width="96"
-            text
             @click="$vuetify.goTo(link)"
           >
             {{ name }}
@@ -124,6 +124,7 @@
     props: { fab: Boolean, color: String, flat: Boolean },
 
     data: () => ({
+      tab: 0,
       drawer: null,
       items: ['Home'],
       isXs: false,
@@ -132,6 +133,7 @@
         ['mdi-information-outline', 'Servicios', '#theme-features'],
         ['mdi-download-box-outline', 'Sobre Nosotros', '#about'],
         ['mdi-email-outline', 'Afiliados', '#affiliates'],
+        ['mdi-phone', 'Contacto', '#contact'],
       ],
     }),
     watch: {

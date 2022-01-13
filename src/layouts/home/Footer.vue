@@ -1,5 +1,6 @@
 <template>
   <v-footer
+    id="contact"
     dark
     padless
   >
@@ -22,7 +23,21 @@
           </v-icon>
         </v-btn>
       </v-card-text>
-
+      <v-card-text class="white--text pt-0">
+        <p>Mision San Lucas #100 CP. 38016, Celaya, Guanajuato, Mexico</p>
+        <h3 class="font-weight-light mt-3">
+          Telefonos:
+          <a href="tel:4611011950">+52(461)101-19-50</a>
+          y
+          <a href="tel:4612273560">+52(461)227-35-60</a>
+        </h3>
+        <h3 class="font-weight-light mt-3">
+          Email:
+          <a
+            href="mailto:rcagentesdeseguros@gmail.com"
+          >rcagentesdeseguros@gmail.com</a>
+        </h3>
+      </v-card-text>
       <v-card-text class="white--text">
         {{ new Date().getFullYear() }} —
         <strong>RC Agentes de Seguros y Fianzas</strong>
@@ -37,15 +52,7 @@
       icons: [
         {
           text: 'mdi-facebook',
-          link: '',
-        },
-        {
-          text: 'mdi-twitter',
-          link: '',
-        },
-        {
-          text: 'mdi-linkedin',
-          link: '',
+          link: 'https://www.facebook.com/rcagentesdeseguros',
         },
         {
           text: 'mdi-instagram',

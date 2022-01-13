@@ -21,14 +21,13 @@
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/vuetifyjs"
+        href="https://www.facebook.com/rcagentesdeseguros"
         light
         min-width="168"
         target="_blank"
         x-large
       >
         Siguenos
-
         <v-icon right>
           mdi-open-in-new
         </v-icon>
