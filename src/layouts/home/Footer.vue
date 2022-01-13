@@ -27,7 +27,7 @@
         <p>Mision San Lucas #100 CP. 38016, Celaya, Guanajuato, Mexico</p>
         <h3 class="font-weight-light mt-3">
           Telefonos:
-          <a href="tel:4611011950">+52(461)101-19-50</a>
+          <a href="tel:4611011850">+52(461)101-18-50</a>
           y
           <a href="tel:4612273560">+52(461)227-35-60</a>
         </h3>
