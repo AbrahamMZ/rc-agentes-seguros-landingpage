@@ -16,7 +16,7 @@
       LoadSections([
         'hero',
         'theme-features',
-        'about-us',
+        'gallery',
         'affiliates',
         'banner',
         'social-media',
