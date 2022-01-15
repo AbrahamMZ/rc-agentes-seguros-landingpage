@@ -17,6 +17,7 @@
             v-bind="feature"
             align="left"
             horizontal
+            data-aos="flip-down"
           >
             <base-btn
               text

@@ -19,6 +19,7 @@
               cols="12 "
               md="6"
               xl="8"
+              data-aos="zoom-in"
             >
               <base-subheading
                 weight="regular"

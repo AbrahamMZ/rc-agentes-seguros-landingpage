@@ -13,6 +13,7 @@
             <v-col
               cols="12"
               md="7"
+              data-aos="fade-right"
             >
               <h1 class="font-weight-light display-2">
                 Sobre nosotros
@@ -70,6 +71,7 @@
               cols="12"
               md="5"
               class="d-none d-md-flex"
+              data-aos="fade-left"
             >
               <v-img
                 src="@/assets/img/insurance.png"
