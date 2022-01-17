@@ -4,7 +4,7 @@
     space="12"
   >
     <base-section-heading
-      title="Galeria"
+      title="TU SEGURO DENTAL A UN EXCELENTE PRECIO PROXIMAMENTE, ESPERALO!!!!"
       space="0"
     />
 
