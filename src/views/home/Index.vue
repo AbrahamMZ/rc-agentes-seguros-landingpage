@@ -17,6 +17,7 @@
         'hero',
         'theme-features',
         'gallery',
+        'carousel-photos',
         'affiliates',
         'banner',
         'social-media',

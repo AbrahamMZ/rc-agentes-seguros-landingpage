@@ -1,5 +1,8 @@
 <template>
-  <section id="about">
+  <base-section
+    id="about"
+    space="4"
+  >
     <v-container fluid>
       <v-row
         align="center"
@@ -99,7 +102,7 @@
         </v-col>
       </v-row>
     </v-container>
-  </section>
+  </base-section>
 </template>
 
 <script>

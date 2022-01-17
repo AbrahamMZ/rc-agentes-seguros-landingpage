@@ -5,8 +5,10 @@ import vuetify from './plugins/vuetify'
 import './plugins'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import Carousel3d from 'vue-carousel-3d'
 
 Vue.config.productionTip = false
+Vue.use(Carousel3d)
 
 new Vue({
   router,
